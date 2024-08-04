@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi I'm **Ruti**, 👋
 
-I'm **Ruti**, a passionate software engineering student who is excited about exploring new opportunities and maybe adding a touch of musical flair along the way! 🎶🎤😜
+a passionate software engineering who is excited about exploring new opportunities and maybe adding a touch of musical flair along the way! 🎶🎤😜
 
 ## Technologies & Tools
 
